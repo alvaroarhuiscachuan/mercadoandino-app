@@ -50,7 +50,7 @@ app.get('/', (req, res) => {
   </header>
   <div class="hero">
     <h2>Catálogo Tradicional de Productos</h2>
-    <p><span class="badge">Versión 1.0</span> Arquitectura Escalable con Auto Scaling y Balanceador de Carga</p>
+    <p><span class="badge">Versión 2.0</span> Arquitectura Escalable con Auto Scaling y Balanceador de Carga</p>
   </div>
   <div class="grid">
     <div class="card">
@@ -79,7 +79,7 @@ app.get('/', (req, res) => {
     </div>
   </div>
   <footer>
-    <p><strong>MercadoAndino v1 - instancia: ${hostname}</strong></p>
+    <p><strong>MercadoAndino v2 - instancia: ${hostname}</strong></p>
     <p>Estado del cluster: <span class="status">● Activo y Saludable</span> | Bucket S3: <code>${bucket}</code></p>
   </footer>
 </body>
