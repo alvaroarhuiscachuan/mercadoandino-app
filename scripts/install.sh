@@ -1,3 +1,2 @@
 #!/bin/bash
-cd /home/ec2-user/mercadoandino-app
-npm install --production
+cd /home/ec2-user/app && npm install --omit=dev
