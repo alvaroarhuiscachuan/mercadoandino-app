@@ -48,7 +48,7 @@ app.get('/', (req, res) => {
     <h1>🦙 MercadoAndino</h1>
     <p>Tienda Oficial de Artesanías y Textiles Peruanos en la Nube</p>
   </header>
-  <div class="hero">
+  <div class="hero" style="background:#e8f5e9; border-bottom: 2px solid #81c784;"><h3 style="color:#2e7d32;">✨ ACTUALIZACIÓN EN VIVO: PLATAFORMA V2.0 DESPLEGADA CON ÉXITO ✨</h3>
     <h2>Catálogo Tradicional de Productos</h2>
     <p><span class="badge">Versión 2.0</span> Arquitectura Escalable con Auto Scaling y Balanceador de Carga</p>
   </div>
